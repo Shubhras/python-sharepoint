@@ -1,0 +1,14 @@
+﻿id,email,first_name,last_name,created_at,updated_at,active,feature_flags,trial_expiry_date
+1,ben@tryretool.com,Ben,Bitdiddle,2018-12-01T00:13:12.000Z,2023-01-18T13:56:12.915Z,false,,2019-02-15
+2,evaluator@tryretool.com,Eva,Lu Ator,2018-12-02T01:13:12.000Z,2023-01-18T13:56:12.919Z,false,,2019-03-15
+3,droptable@xkcd.com,Robert'),DROP TABLE Users;,2018-12-03T02:13:12.000Z,2023-01-18T13:56:12.925Z,false,,2019-03-15
+4,louis@competitor.com,Louis,Reasoner,2018-12-04T03:13:12.000Z,2023-01-18T13:56:12.929Z,false,,2019-03-10
+5,tenx@tryretool.com,Alyssa P.,Hacker,2018-12-05T04:13:12.000Z,2023-01-18T13:56:12.934Z,false,,2019-03-05
+6,cy@tryretool.com,Cy D.,Fect,2018-12-06T05:13:12.000Z,2023-01-18T13:56:12.940Z,false,,2019-02-05
+7,lem@tryretool.com,Lem,E. Tweakit,2018-12-07T06:13:12.000Z,2023-01-18T13:56:12.945Z,false,,2019-02-05
+8,roger@tryretool.com,Roger,Moore,2018-12-08T07:13:12.000Z,2023-01-18T13:56:12.952Z,false,,2019-03-20
+9,mary@tryretool.com,Mary,Meets,2018-12-09T08:13:12.000Z,2023-01-18T13:56:12.956Z,false,,2019-03-20
+10,rosemary@tryretool.com,Rosemary,Rogers,2018-12-10T09:13:12.000Z,2023-01-18T13:56:12.961Z,false,,2019-03-20
+11,elizabeth@tryretool.com,Elizabeth,Meets,2018-12-11T10:13:12.000Z,2023-01-18T13:56:12.965Z,false,,2019-03-12
+12,eva.noyce@tryretool.com,Eva,Noyce,2018-12-12T11:13:12.000Z,2023-01-18T13:56:12.970Z,false,,2019-03-12
+13,barry@tryretool.com,Barry,Bore,2018-12-13T12:13:12.000Z,2023-01-18T13:56:12.975Z,false,,2019-03-05
